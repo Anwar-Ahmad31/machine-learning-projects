@@ -22,7 +22,12 @@ Welcome to my **Machine Learning Projects** repository! This repository contains
 - **Script**: [`main.py`](./House-Price-Prediction/main.py)
 - **Tech Stack**: Python, Scikit-Learn, Pandas, NumPy, Joblib.
 
-### 3. 🔢 [NumPy](./NumPy/)
+### 3. 🫀 [Heart-Disease-Prediction](./Heart-Disease-Prediction/)
+- **Description**: Medical classification pipeline benchmarking 7 ML algorithms (Logistic Regression, Random Forest, Decision Tree, SVC, KNN, AdaBoost, Gradient Boosting) on UCI Cleveland dataset with recruiter selection rationale.
+- **Script**: [`main.py`](./Heart-Disease-Prediction/main.py)
+- **Tech Stack**: Python, Scikit-Learn, Pandas, NumPy, Joblib.
+
+### 4. 🔢 [NumPy](./NumPy/)
 - **Description**: NumPy fundamentals, array operations, vectorization, indexing, and numerical computing practice.
 - **Notebook**: [`day-1.ipynb`](./NumPy/day-1.ipynb)
 - **Tech Stack**: Python, NumPy, Jupyter Notebooks.
