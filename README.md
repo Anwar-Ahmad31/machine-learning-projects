@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Portfolio
+# Machine Learning & Data Science Projects
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.26-013243?style=flat-square&logo=numpy)](https://numpy.org/)
@@ -6,7 +6,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](#license)
 
-Welcome to my **Data Science & Machine Learning** repository! This repository contains my learning projects, exploratory data analysis, numerical computing modules, and machine learning models.
+Welcome to my **Machine Learning Projects** repository! This repository contains my machine learning models, numerical computing modules, exploratory data analysis, and predictive algorithms.
 
 ---
 
@@ -28,8 +28,8 @@ Welcome to my **Data Science & Machine Learning** repository! This repository co
 
 ```bash
 # Clone Repository
-git clone https://github.com/Anwar-Ahmad31/Data-Science.git
-cd Data-Science
+git clone https://github.com/Anwar-Ahmad31/machine-learning-projects.git
+cd machine-learning-projects
 
 # Install Dependencies
 pip install numpy pandas scikit-learn openpyxl jupyter
