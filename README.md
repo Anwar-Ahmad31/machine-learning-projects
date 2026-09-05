@@ -17,7 +17,12 @@ Welcome to my **Machine Learning Projects** repository! This repository contains
 - **Notebook**: [`Iris_main.ipynb`](./Iris-Flower-Classification/Iris_main.ipynb)
 - **Tech Stack**: Python, Scikit-Learn, Pandas, NumPy.
 
-### 2. 🔢 [NumPy](./NumPy/)
+### 2. 🏠 [House-Price-Prediction](./House-Price-Prediction/)
+- **Description**: End-to-end regression pipeline for predicting California median housing prices using `RandomForestRegressor`, `ColumnTransformer`, `StratifiedShuffleSplit`, and `joblib`.
+- **Script**: [`main.py`](./House-Price-Prediction/main.py)
+- **Tech Stack**: Python, Scikit-Learn, Pandas, NumPy, Joblib.
+
+### 3. 🔢 [NumPy](./NumPy/)
 - **Description**: NumPy fundamentals, array operations, vectorization, indexing, and numerical computing practice.
 - **Notebook**: [`day-1.ipynb`](./NumPy/day-1.ipynb)
 - **Tech Stack**: Python, NumPy, Jupyter Notebooks.
